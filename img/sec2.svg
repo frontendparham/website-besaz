@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="753" height="410" viewBox="0 0 753 410">
+  <g id="sec_2" data-name="sec 2" transform="translate(-552 -849)">
+    <circle id="shape" cx="21.5" cy="21.5" r="21.5" transform="translate(1071 1216)" fill="#e7e7e7"/>
+    <g id="service_box" data-name="service box">
+      <text id="text" transform="translate(561 967)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="41.896" y="13"> </tspan><tspan y="13">ممکن است هزینه‌های زیادی برای کانال‌های</tspan><tspan y="13"> </tspan><tspan x="213.922" y="38">تبلیغاتی</tspan><tspan y="38"></tspan><tspan x="21.137" y="63"> </tspan><tspan y="63">انجام دهید، تا کاربران بیشتری را جذب کنید. اما با</tspan><tspan y="63"></tspan><tspan x="4.268" y="88"> </tspan><tspan y="88">داشتن یک وبسایت استاندارد با پلتفرم وبسایت بساز</tspan><tspan y="88"> </tspan><tspan x="24.852" y="113">تعداد مشتریان شما افزایش پیدا می‌کندو موجب</tspan><tspan y="113"> </tspan><tspan x="62.498" y="138">کاهش هزینه‌های تبلیغاتی شما می‌گردد</tspan></text>
+      <text id="text-2" data-name="text" transform="translate(633 1182)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" text-decoration="underline"><tspan x="-80.508" y="0">بیشتر بخوانید</tspan></text>
+      <g id="icon" transform="translate(761.651 849)">
+        <rect id="bounding_box_66_" width="53" height="53.697" transform="translate(0.349 0)" fill="none"/>
+        <g id="icon_69_" transform="translate(2.781 5.571)">
+          <path id="Path_214" data-name="Path 214" d="M497.936,496.528h-31.3A9.66,9.66,0,0,1,457,486.9V467.632A9.66,9.66,0,0,1,466.632,458h31.3a9.66,9.66,0,0,1,9.632,9.632V486.9A9.66,9.66,0,0,1,497.936,496.528Zm-31.3-33.712a4.83,4.83,0,0,0-4.816,4.816V486.9a4.83,4.83,0,0,0,4.816,4.816h31.3a4.83,4.83,0,0,0,4.816-4.816V467.632a4.83,4.83,0,0,0-4.816-4.816Z" transform="translate(-457 -458)" fill="#fff"/>
+          <path id="Path_215" data-name="Path 215" d="M467.224,472.816h-4.816a2.408,2.408,0,1,1,0-4.816h4.816a2.408,2.408,0,1,1,0,4.816Z" transform="translate(-452.776 -443.92)" fill="#fff"/>
+          <path id="Path_216" data-name="Path 216" d="M501.343,467.816H460.408a2.408,2.408,0,1,1,0-4.816h40.935a2.408,2.408,0,1,1,0,4.816Z" transform="translate(-455.592 -450.96)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <circle id="shape-2" data-name="shape" cx="10.5" cy="10.5" r="10.5" transform="translate(1284 1199)" fill="#e7e7e7"/>
+  </g>
+</svg>

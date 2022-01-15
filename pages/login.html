@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>وبسایت بساز</title>
+    <script src="https://unpkg.com/phosphor-icons"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="../img/favicon/apple-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="../img/favicon/apple-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="../img/favicon/apple-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="../img/favicon/apple-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="../img/favicon/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="../img/favicon/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="../img/favicon/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="../img/favicon/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="../img/favicon/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="../img/favicon/android-icon-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../img/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="../img/favicon/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="../img/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="../img/favicon/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="../img/favicon/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <div class="signup">
+      <img
+        src="../img/signup-bg-min.png"
+        aria-hidden="true"
+        class="signup__img"
+      />
+
+      <!-------- We are using some of the index.html's code and add form to them ------------>
+      <div class="navigation">
+        <input type="checkbox" class="navigation__checkbox" id="navi-toggle" />
+
+        <label for="navi-toggle" class="navigation__button">
+          <span class="navigation__icon">&nbsp;</span>
+        </label>
+
+        <div class="navigation__background">&nbsp;</div>
+
+        <nav class="navigation__nav">
+          <ul class="navigation__list">
+            <li class="navigation__item">
+              <a href="#" class="navigation__link">صفحه اصلی</a>
+            </li>
+            <li class="navigation__item">
+              <a href="#" class="navigation__link">تماس با ما</a>
+            </li>
+            <li class="navigation__item">
+              <a href="#" class="navigation__link">درباره ما</a>
+            </li>
+            <li class="navigation__item">
+              <a href="#" class="navigation__link">وبلاگ</a>
+            </li>
+            <a href="#" class="btn btn-fill" id="navigation-register">
+              <i class="ph-user header__person-icon"></i>
+              ورود / ثبت نام
+            </a>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="profile">
+        <a href="#" class="profile__link">
+          <i class="ph-user profile__icon"></i>
+        </a>
+      </div>
+
+      <div class="row">
+        <div class="header__top">
+          <div class="header__logo-box">
+            <img
+              src="../img/main-logo.svg"
+              alt="logo"
+              class="header__logo-img"
+            />
+          </div>
+          <nav class="header__navigation">
+            <ul class="header__list">
+              <li class="header__item">
+                <a href="../index.html" class="header__link">صفحه اصلی</a>
+              </li>
+              <li class="header__item">
+                <a href="#" class="header__link">درباره ما</a>
+              </li>
+              <li class="header__item">
+                <a href="#" class="header__link">تماس با ما</a>
+              </li>
+              <li class="header__item">
+                <a href="#" class="header__link">وبلاگ</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="header__register">
+            <a href="#" class="btn btn-fill">
+              <i class="ph-user header__person-icon"></i>
+              ورود / ثبت نام
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!----------------- start of FORM ------------------->
+
+      <div class="signup__form">
+        <div class="signup__form-bg"></div>
+        <h2 class="signup__heading">ثبت نام</h2>
+        <form action="#" method="post" class="form">
+          <div class="row">
+            <div class="col-1-of-2">
+              <div class="form__group">
+                <label for="name" class="form__label"
+                  >نام<span class="form__star">*</span></label
+                >
+                <input
+                  type="text"
+                  class="form__input"
+                  id="name"
+                  placeholder="نام خود را وارد کنید"
+                  required
+                />
+              </div>
+              <div class="form__group">
+                <label for="lastName" class="form__label"
+                  >نام خانوادگی<span class="form__star">*</span></label
+                >
+                <input
+                  type="text"
+                  class="form__input"
+                  id="lastNamee"
+                  placeholder="نام خانوادگی خود را وارد کنید"
+                  required
+                />
+              </div>
+            </div>
+            <div class="col-1-of-2">
+              <div class="form__group">
+                <label for="email address" class="form__label"
+                  >پست الکترونیک<span class="form__star">*</span></label
+                >
+                <input
+                  type="email"
+                  class="form__input"
+                  id="email address"
+                  placeholder="آدرس پست الکترونیکی را وارد کنید"
+                  required
+                />
+              </div>
+              <div class="form__group">
+                <label for="tel" class="form__label"
+                  >شماره تلفن همراه<span class="form__star">*</span></label
+                >
+                <input
+                  type="tel"
+                  class="form__input"
+                  id="tel"
+                  placeholder="شماره تلفن همراه خود را وارد کنید"
+                  required
+                />
+              </div>
+            </div>
+          </div>
+          <div>
+            <input type="submit" class="login-btn" value="ثبت نام" />
+          </div>
+        </form>
+      </div>
+
+      <!----------------- end of FORM ------------------->
+    </div>
+  </body>
+</html>

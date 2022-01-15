@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1508" height="835" viewBox="0 0 1508 835">
+  <g id="sec_1" data-name="sec 1" transform="translate(190 80)">
+    <circle id="shape" cx="21.5" cy="21.5" r="21.5" transform="translate(628 174)" fill="#e7e7e7"/>
+    <circle id="shape-2" data-name="shape" cx="23.5" cy="23.5" r="23.5" transform="translate(768 328)" fill="#e7e7e7"/>
+    <circle id="shape-3" data-name="shape" cx="23.5" cy="23.5" r="23.5" transform="translate(1226 138)" fill="#e7e7e7"/>
+    <circle id="shape-4" data-name="shape" cx="10.5" cy="10.5" r="10.5" transform="translate(776 117)" fill="#e7e7e7"/>
+    <circle id="shape-5" data-name="shape" cx="12.5" cy="12.5" r="12.5" transform="translate(545 728)" fill="#e7e7e7"/>
+    <circle id="shape-6" data-name="shape" cx="12.5" cy="12.5" r="12.5" transform="translate(1293 247)" fill="#e7e7e7"/>
+    <circle id="shape-7" data-name="shape" cx="6.5" cy="6.5" r="6.5" transform="translate(526 674)" fill="#e7e7e7"/>
+    <circle id="shape-8" data-name="shape" cx="12.5" cy="12.5" r="12.5" transform="translate(650 400)" fill="#e7e7e7"/>
+    <g id="slider">
+      <circle id="shape-9" data-name="shape" cx="417.5" cy="417.5" r="417.5" transform="translate(-190 -80)" fill="#e7e7e7"/>
+    </g>
+  </g>
+</svg>
