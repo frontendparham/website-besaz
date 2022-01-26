@@ -27,5 +27,5 @@ fully responsive landing page with 3 beautiful sliders and sign-up form
 ## Author
 
 - Parham Tavakolian
-- Contact-Me - [Email](mailto:tavakolianparham@gmail.com)
+- Contact-Me - [tavakolianparham@gmail.com](mailto:tavakolianparham@gmail.com)
 
