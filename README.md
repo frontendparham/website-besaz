@@ -13,7 +13,7 @@ fully responsive landing page with 3 beautiful sliders and sign-up form
 
 ### Links
 
-- Live Site URL: [Netlify](https://websitebesaz.netlify.app/)
+- Live Site URL: [Netlify](https://website-besaz.netlify.app/)
 
 ## My process
 
